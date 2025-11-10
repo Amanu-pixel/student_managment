@@ -47,6 +47,5 @@ A simple Python console app to manage student information (ID, Name, Grade) with
 * Update student records
 * Use CSV or JSON for storage
 
-
 ```
 ```
